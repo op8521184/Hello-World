@@ -10,7 +10,7 @@
 
 ## 功能结构图
 
-![输入图片说明](https://raw.githubusercontent.com/op8521184/Hello-World/main/imgs/2023-08-21/OcVfrz44Zi5k8mnh.png)
+![输入图片说明](https://raw.githubusercontent.com/op8521184/Hello-World/main/imgs/2023-08-26/kkghBv4B0Px14BAH.png)
 
 ## 模块和来源关联概览
 ![输入图片说明](https://raw.githubusercontent.com/op8521184/Hello-World/main/imgs/2023-08-23/PQQEyypl5GdoCuqE.png)
@@ -89,7 +89,7 @@ title 市场部
 
 >删除：服务项目失效，不影响历史单据。
 
->提交：选中行项可进行提交，或进入详情页提交，发送邮件给财务部人员，提交途中 或 审批通过后不能修改。
+>提交：选中行项可进行提交，或进入详情页提交，发送邮件给财务部人员，提交途中 或 审批通过后不能修改，。
 
 >审批：选中行进行审批，或进入详情页审批，合同审批分两种情况，新增合同：合同生效，修改合同：失效未结算单据，重新计算相关费用。
 
